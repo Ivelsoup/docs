@@ -25,7 +25,7 @@ The `.strip()` method is called on a string using the following syntax:
 string.strip(characters)
 ```
 
-- `characters` (optional): Specified character/characters to be removed from the beginning and end of the string.
+- `characters` (optional): Specified character(s) to be removed from the beginning and end of the string.
 
 ## Example 1
 
